@@ -6,7 +6,7 @@ This program has been used to implement Facial Recognition using Siamese Network
 
 Facenet implements concept of Triplet Loss function to minimize the distance between anchor and positive images, and increase the distance between anchor and negative images.
 
-### Prerequisites
+### Prerequisites are:
 
     h5py==2.8.0
 	Keras==2.2.4
